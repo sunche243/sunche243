@@ -1,17 +1,19 @@
-### About
+<!-- # 저의 개인 페이지를 만드는 프로젝트를 진행중입니다!
 
-반갑습니다<br>
-저는 영상편집과 디자인을 주로 다루고 있는 학생입니다
+<a href="https://sunche.me/">(sunche.me)</a>
 
+## About
 
+  반갑습니다<br>
+  저는 영상편집과 디자인을 주로 다루고 있는 학생입니다
 
-### Contact
+## Contact
 
-Phone : 010-9678-4100<br>
-Email : starcj7@naver.com<br>
-Blog : <a href="https://sunche.me/">sunche.me<a>
-
-### Projects
+  Phone : 010-9678-4100<br>
+  Email : starcj7@naver.com<br>
+  Blog : <a href="https://sunche.me/">sunche.me<a>
+  
+## Projects
   
   <ul>
     <li><a href="https://dimitimes.github.io">Dimitimes</a></li>
@@ -19,4 +21,5 @@ Blog : <a href="https://sunche.me/">sunche.me<a>
     <li><a href="https://green-grass.tech" target="blank">초록잔디</a></li>
   </ul>
   
-### 
+## 
+ -->
