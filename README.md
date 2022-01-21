@@ -1,11 +1,14 @@
 ### About
 
-안녕하세요
-저는 영상편집과 디자인을 주로 하고있으며, 현재 프론트 엔드를 추가적으로 배우는 과정에 있습니다.
+안녕하세요!
+영상편집과 디자인을 주로 다루고 있습니다.
+
 
 
 ### Contact
 
-Phone
+Phone : 010-9678-4100
+Email : starcj7@naver.com
+Blog : <a href=https://sunche.me/>sunche.me<a>
 
 
