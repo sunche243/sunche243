@@ -11,4 +11,10 @@ Phone : 010-9678-4100<br>
 Email : starcj7@naver.com<br>
 Blog : <a href=https://sunche.me/>sunche.me<a>
 
+### Projects
+  
+<ul>
+  <li>Dimitimes<li>
+  <li>Dimigome<li>
+  <li>초록잔디<li>
 
