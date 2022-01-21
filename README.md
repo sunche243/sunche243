@@ -16,7 +16,7 @@ Blog : <a href="https://sunche.me/">sunche.me<a>
   <ul>
     <li><a href="https://dimitimes.github.io">Dimitimes</a></li>
     <li><a href="https://dimigo.me">Dimigome</a></li>
-    <li><a href="https://green-grass.tech" target="_blank">초록잔디</a></li>
+    <li><a href="https://green-grass.tech" target="blank">초록잔디</a></li>
   </ul>
   
 ### 
