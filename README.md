@@ -10,7 +10,7 @@
   Phone : <a href=tel>010-9678-4100<a><br>
   Email : <a href="mailto">starcj7@naver.com</a><br>
   Blog : <a href="https://aineraser.tistory.com/">아인지우개<a><br>
-  Blog : <a href="https://sunche.me/">sunche.me<a>
+  Blog(personal) : <a href="https://sunche.me/">sunche.me<a>
   
 ## Projects
   
