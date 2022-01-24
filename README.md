@@ -27,4 +27,6 @@
 <ul>
 <li>한국디지털미디어고등학교 20기 디지털콘텐츠과 재학 (2021.03.02~)</li>
 <ul>
+  
+  
 ![sunche's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunche243&show_icons=true)
