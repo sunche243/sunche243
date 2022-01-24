@@ -17,7 +17,7 @@
 ## Projects 📋
 
 <ul>
-<li><a href="https://dimitimes.github.io">Dimitimes</a> (UX esign)</li>
+<li><a href="https://dimitimes.github.io">Dimitimes</a> (UX Design)</li>
 <li><a href="https://dimigo.me">Dimigome</a> (UI/UX Design)</li>
 <li><a href="https://apps.apple.com/kr/app/%EC%B4%88%EB%A1%9D%EC%9E%94%EB%94%94/id1602956399" target="blank">초록잔디</a> (UI/UX Design)</li>
 </ul>
