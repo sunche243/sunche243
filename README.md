@@ -10,7 +10,7 @@
 📱 Phone : <a href=tel>010-9678-4100<a><br>
 📩 Email : <a href="mailto">starcj7@naver.com</a><br>
 🔦 Discord : 박찬준#7882<br>
-👀 Instagram : <a href="https://www.instagram.com/i_dont_want_che/">i_dont_want_che</a><br>
+👀 Instagram : <a href="https://www.instagram.com/@i_dont_want_che/">i_dont_want_che</a><br>
 📕 Blog(Tistory) : <a href="https://aineraser.tistory.com/">아인지우개<a><br>
 📙 Blog(Personal) : <a href="https://sunche.me/blog">sunche.me/blog<a>
   
