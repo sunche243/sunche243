@@ -26,7 +26,7 @@
   
 <ul>
 <li>한국디지털미디어고등학교 20기 디지털콘텐츠과 재학 (2021.03.02~)</li>
-<li>Din Designer(2022.02.01~)</li>
+<li>DIMIGOIN Designer(2022.02.01~)</li>
 </ul>
 
 <br>
