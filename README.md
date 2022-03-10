@@ -27,12 +27,12 @@
   
 ### Vedio Projects
   <ul>
-    <li><a href="https://www.youtube.com/watch?v=y5i_D98CKts">대한민국패럴스마트폰영화제 The camera 출품(음향감독)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=INZyhA5vJMM">블러썸 청소년 영상제 noise 출품(주연 배우)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=y5i_D98CKts">대한민국패럴스마트폰영화제 The camera 출품</a>(음향감독)</li>
+    <li><a href="https://www.youtube.com/watch?v=INZyhA5vJMM">블러썸 청소년 영상제 noise 출품</a>(주연 배우)</li>
     <li>블라썸 청소년 영상제 출품(작가)</li>
     <li>한국청소년영화제 날개 출품(음향감독)</li>
-    <li><a href="https://youtu.be/zTPK8LjcMFA">2021학년도 교내 꿈, 비젼, 나눔 UCC대회 Life Recipe Cooking 출품(작가 및 주연 배우)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=VtkZjHfau1k">2022 CINEMATIC 동아리 홍보영상(작가 및 음향감독 및 배우)</a><li>
+    <li><a href="https://youtu.be/zTPK8LjcMFA">2021학년도 교내 꿈, 비젼, 나눔 UCC대회 Life Recipe Cooking 출품</a>(작가 및 주연 배우)</li>
+    <li><a href="https://www.youtube.com/watch?v=VtkZjHfau1k">2022 CINEMATIC 동아리 홍보영상</a>(작가 및 음향감독 및 배우)<li>
   </ul>
   
 ## career 
