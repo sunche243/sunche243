@@ -11,8 +11,6 @@
   📩 Email : <a href="mailto">starcj7@naver.com</a><br>
   🔦 Discord : 박찬준#7882<br>
   👀 Instagram : <a href="https://www.instagram.com/i_dont_want_che/">@i_dont_want_che</a><br>
-  📕 Blog(Tistory) : <a href="https://aineraser.tistory.com/">아인지우개<a><br>
-  📙 Blog(Personal) : <a href="https://sunche.me/blog">sunche.me/blog<a>
   
 ## Projects 📋
 
@@ -21,18 +19,7 @@
     <li><a href="https://dimitimes.github.io">Dimitimes</a> (UX Design)</li>
     <li><a href="https://dimigo.me">Dimigome</a> (UI/UX Design)</li>
     <li><a href="https://apps.apple.com/kr/app/%EC%B4%88%EB%A1%9D%EC%9E%94%EB%94%94/id1602956399" target="blank">초록잔디</a> (UI/UX Design)</li>
-  </ul>
-  
-<br>
-  
-### Vedio Projects
-  <ul>
-    <li><a href="https://www.youtube.com/watch?v=y5i_D98CKts">대한민국패럴스마트폰영화제 The camera 출품</a>(음향감독)</li>
-    <li><a href="https://www.youtube.com/watch?v=INZyhA5vJMM">블러썸 청소년 영상제 noise 출품</a>(주연 배우)</li>
-    <li>블라썸 청소년 영상제 출품(작가)</li>
-    <li>한국청소년영화제 날개 출품(음향감독)</li>
-    <li><a href="https://youtu.be/zTPK8LjcMFA">2021학년도 교내 꿈, 비젼, 나눔 UCC대회 Life Recipe Cooking 출품</a>(작가 및 주연 배우)</li>
-    <li><a href="https://www.youtube.com/watch?v=VtkZjHfau1k">2022 CINEMATIC 동아리 홍보영상</a>(작가 및 음향감독 및 배우)</li>
+    <li><a href="https://youtu.be/oq-5VvkoJn0" target="blank">ASD</a> (UI/UX Design, 3D Design)
   </ul>
   
 ## career 
