@@ -19,7 +19,7 @@
     <li><a>Dimigome</a> (UI/UX Design)</li>
     <li><a href="https://apps.apple.com/kr/app/%EC%B4%88%EB%A1%9D%EC%9E%94%EB%94%94/id1602956399" target="blank">초록잔디</a> (UI/UX Design)</li>
     <li><a href="https://www.youtube.com/watch?v=oq-5VvkoJn0" target="blank">ASD</a> (UI/UX Design, 3D Design)</li>
-    <li><a href="https://github.com/sunche243/scoreboard" target="blank">Red&Blue ScoreBoard</a> (iOS App Develop)</li>
+    <li><a href="https://github.com/sunche243/scoreboard" target="blank">Red&Blue Scoreboard</a> (iOS App Develop)</li>
   </ul>
   
 ## Career 🧑🏻‍💻
