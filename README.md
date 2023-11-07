@@ -1,4 +1,4 @@
-# 취미로 코드를 배우고 있는 학생입니다 💻
+# 생각한 대로 만들자!
 
 ## About Me 🔎  
 
@@ -22,7 +22,7 @@
     <li><a href="https://github.com/sunche243/scoreboard" target="blank">Red&Blue ScoreBoard</a> (iOS App Develop)</li>
   </ul>
   
-## career 
+## Career 🧑🏻‍💻
   
   <ul>
     <li>한국디지털미디어고등학교 20기 디지털콘텐츠과 재학 (2021.03.02~)</li>
