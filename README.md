@@ -27,7 +27,7 @@
   
 - <a href="https://dimigo.hs.kr">한국디지털미디어고등학교</a> 20기 디지털콘텐츠과 재학(2021.03.02~)
 - <a href="https://github.com/dimigo-din">Dimigo DIN</a> Designer(2022.02.01~)
-- <a href="https://implude.kr" target="blank">Implude</a> Head Designer & PM(2022.03.30~2023.02.28)
+- <a href="https://github.com/implude" target="blank">Implude</a> Head Designer & PM(2022.03.30~2023.02.28)
 - <a href="https://moji.or.kr" target="blank">뭐지 뉴스레터</a> 부대표(2022.06.22~)
 
 <br><br>
